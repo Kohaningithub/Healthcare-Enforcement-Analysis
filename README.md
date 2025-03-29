@@ -1,6 +1,6 @@
 # HHS OIG Healthcare Enforcement Actions Dashboard
 
-[Live Demo] The url is https://venerable-starlight-bbabe2.netlify.app
+[Live Demo] The url is [https://venerable-starlight-bbabe2.netlify.app](https://remarkable-bunny-597e0e.netlify.app)
 
 ## About
 This dashboard visualizes healthcare enforcement actions data from the HHS OIG.
